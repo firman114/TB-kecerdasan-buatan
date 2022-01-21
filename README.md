@@ -1,2 +1,2 @@
-# TB-kecerdasan-buatan
-mengenali gambar daun
+# cbir-flask
+ cbir-flask
